@@ -1,9 +1,11 @@
 # 🐛 issue: Python good first issues for your first open source PR
 
+from HUJING.
+
 **Beginner-friendly Python CLI with 30+ good first issues.** Planted bugs, missing tests and small features waiting for you. Fork it, fix it, open a PR and turn your GitHub contribution graph green 🟩
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-MIT-green)    
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![good first issues](https://img.shields.io/badge/good%20first%20issues-30%2B-orange)
 
